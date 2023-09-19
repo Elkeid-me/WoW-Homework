@@ -189,6 +189,7 @@ Its loyalty is 24
 表示在0点50分，红方司令部有100个生命元，蓝方有120个
 
 ## 武士报告武器情况
+
 000:55 blue wolf 2 has arrow(2),bomb,sword(23)
 
 000:55 blue wolf 4 has no weapon
